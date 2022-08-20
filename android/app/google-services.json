@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968601158221",
+    "project_id": "safi-e-shop-efe62",
+    "storage_bucket": "safi-e-shop-efe62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968601158221:android:2e657942af1f8a2a841204",
+        "android_client_info": {
+          "package_name": "com.example.safi_e_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968601158221-5q36lmk1bjjutpc1ptut1rq38dms7n6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2tCFd5q7WseIHbVaUdSdtcCEv57pHXgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968601158221-5q36lmk1bjjutpc1ptut1rq38dms7n6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
